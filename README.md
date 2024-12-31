@@ -1,2 +1,2 @@
 # Slice-Fusion
-Here, I will maintain slice-fusion work from my PhD contribution.
+Here, we will maintain our novel Slice-Fusion framework one of the PhD contribution of First Author at UESTC.
